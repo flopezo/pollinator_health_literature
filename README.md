@@ -1,7 +1,12 @@
+## Table of contents
+- [Introduction](#introduction)
+- [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
+- [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
+
 ## Introduction
 This is a compilation of literature on the effects of pesticides on insect pollinators.
 
-## Reviews: Pollinators and neonicotinoid insecticides
+## Reviews on pollinators and neonicotinoid insecticides
 * Biesmeijer, J.C., Roberts, S.P.M., Reemer, M., Ohlemüller, R., Edwards, M., Peeters, T., Schaffers, A.P., Potts, S.G., Kleukers, R., Thomas, C.D., Settele, J., Kunin, W.E., 2006. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands. Science 313, 351–354. https://doi.org/10.1126/science.1127863
 * **Blacquière, T., Smagghe, G., van Gestel, C.A.M., Mommaerts, V., 2012. Neonicotinoids in bees: a review on concentrations, side-effects and risk assessment. Ecotoxicology 21, 973–992. https://doi.org/10.1007/s10646-012-0863-x**
 * **Casida, J.E., 2018. Neonicotinoids and other insect nicotinic receptor competitive modulators: progress and prospects. Annual Review of Entomology 63, 125–144. https://doi.org/10.1146/annurev-ento-020117-043042**
