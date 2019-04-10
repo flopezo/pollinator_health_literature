@@ -1,3 +1,23 @@
+# Reviews: Pollinators and neonicotinoid insecticides
+* Biesmeijer, J.C., Roberts, S.P.M., Reemer, M., Ohlemüller, R., Edwards, M., Peeters, T., Schaffers, A.P., Potts, S.G., Kleukers, R., Thomas, C.D., Settele, J., Kunin, W.E., 2006. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands. Science 313, 351–354. https://doi.org/10.1126/science.1127863
+* **Blacquière, T., Smagghe, G., van Gestel, C.A.M., Mommaerts, V., 2012. Neonicotinoids in bees: a review on concentrations, side-effects and risk assessment. Ecotoxicology 21, 973–992. https://doi.org/10.1007/s10646-012-0863-x**
+* **Casida, J.E., 2018. Neonicotinoids and other insect nicotinic receptor competitive modulators: progress and prospects. Annual Review of Entomology 63, 125–144. https://doi.org/10.1146/annurev-ento-020117-043042**
+* Cressey, D., 2017. The bitter battle over the world’s most popular insecticides. Nature 551, 156–158. https://doi.org/10.1038/551156a
+* Cressey, D., 2015. Bee studies stir up pesticide debate. Nature 520, 416–416. https://doi.org/10.1038/520416a
+* Cressey, D., 2013. Europe debates risk to bees. Nature 496, 408–408. https://doi.org/10.1038/496408a
+* **Desneux, N., Decourtye, A., Delpuech, J.-M., 2007. The sublethal effects of pesticides on beneficial arthropods. Annual Review of Entomology 52, 81–106. https://doi.org/10.1146/annurev.ento.52.110405.091440**
+* Dicks, L.V., Viana, B., Bommarco, R., Brosi, B., Arizmendi, M. del C., Cunningham, S.A., Galetto, L., Hill, R., Lopes, A.V., Pires, C., Taki, H., Potts, S.G., 2016. Ten policies for pollinators. Science 354, 975–976. https://doi.org/10.1126/science.aai9226
+* Godfray, H.C.J., Blacquière, T., Field, L.M., Hails, R.S., Petrokofsky, G., Potts Simon G., Raine Nigel E., Vanbergen Adam J., McLean Angela R., 2014. A restatement of the natural science evidence base concerning neonicotinoid insecticides and insect pollinators. Proceedings of the Royal Society B: Biological Sciences 281, 20140558. https://doi.org/10.1098/rspb.2014.0558
+* Goulson, D., Lye, G.C., Darvill, B., 2008. Decline and conservation of bumble bees. Annual Review of Entomology 53, 191–208. https://doi.org/10.1146/annurev.ento.53.103106.093454
+* **Goulson, D., 2013. An overview of the environmental risks posed by neonicotinoid insecticides. Journal of Applied Ecology 50, 977–987. https://doi.org/10.1111/1365-2664.12111**
+* **Goulson, D., Nicholls, E., Botias, C., Rotheray, E.L., 2015. Bee declines driven by combined stress from parasites, pesticides, and lack of flowers. Science 347, 1255957–1255957. https://doi.org/10.1126/science.1255957**
+* Gradish, A.E., van der Steen, J., Scott-Dupree, C.D., Cabrera, A.R., Cutler, G.C., Goulson, D., Klein, O., Lehmann, D.M., Lückmann, J., O’Neill, B., Raine, N.E., Sharma, B., Thompson, H., 2019. Comparison of pesticide exposure in honey bees (Hymenoptera: Apidae) and bumblebees (Hymenoptera: Apidae): Implications for risk assessments. Environ Entomol 48, 12–21. https://doi.org/10.1093/ee/nvy168
+* Gross, M., 2018. Bee worries beyond neonicotinoids. Current Biology 28, R1121–R1123. https://doi.org/10.1016/j.cub.2018.09.045
+* Gross, M., 2014. Systemic pesticide concerns extend beyond the bees. Current Biology 24, R717–R720. https://doi.org/10.1016/J.CUB.2014.07.071
+* Kerr, J.T., Pindar, A., Galpern, P., Packer, L., Potts, S.G., Roberts, S.M., Rasmont, P., Schweiger, O., Colla, S.R., Richardson, L.L., Wagner, D.L., Gall, L.F., Sikes, D.S., Pantoja, A., 2015. Climate change impacts on bumblebees converge across continents. Science 349, 177–80. https://doi.org/10.1126/science.aaa7031
+* **Potts, S.G., Biesmeijer, J.C., Kremen, C., Neumann, P., Schweiger, O., Kunin, W.E., 2010. Global pollinator declines: trends, impacts and drivers. Trends in Ecology & Evolution 25, 345–353. https://doi.org/10.1016/J.TREE.2010.01.007**
+* **Potts, S.G., Imperatriz-Fonseca, V., Ngo, H.T., Aizen, M.A., Biesmeijer, J.C., Breeze, T.D., Dicks, L.V., Garibaldi, L.A., Hill, R., Settele, J., Vanbergen, A.J., 2016. Safeguarding pollinators and their values to human well-being. Nature 540, 220–229. https://doi.org/10.1038/nature20588**
+
 # Exposure of pollinators to neonicotinoid insecticides
 * Anderson, N.L., Harmon-Threatt, A.N., 2019. Chronic contact with realistic soil concentrations of imidacloprid affects the mass, immature development speed, and adult longevity of solitary bees. Scientific Reports 9, 3724. https://doi.org/10.1038/s41598-019-40031-9
 * Arce, A.N., David, T.I., Randall, E.L., Ramos Rodrigues, A., Colgan, T.J., Wurm, Y., Gill, R.J., 2017. Impact of controlled neonicotinoid exposure on bumblebees in a realistic field setting. Journal of Applied Ecology 54, 1199–1208. https://doi.org/10.1111/1365-2664.12792
