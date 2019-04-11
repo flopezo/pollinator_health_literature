@@ -3,6 +3,7 @@
 - [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
 - [Highly cited](#highly-cited)
 - [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
+- [Dosage effects](#dosage-effects)
 - [Gene expression](#gene-expression)
 
 ## Introduction
@@ -188,6 +189,13 @@ This is a compilation of literature on the effects of pesticides on insect polli
 * Wu, J.Y., Anelli, C.M., Sheppard, W.S., 2011. Sub-lethal effects of pesticide residues in brood comb on worker honey bee (_Apis mellifera_) development and longevity. PLOS ONE 6, e14720. https://doi.org/10.1371/journal.pone.0014720
 * Wu, M.-C., Chang, Y.-W., Lu, K.-H., Yang, E.-C., 2017. Gene expression changes in honey bees induced by sublethal imidacloprid exposure during the larval stage. Insect Biochemistry and Molecular Biology 88, 12–20. https://doi.org/10.1016/j.ibmb.2017.06.016
 * Zhu, W., Schmehl, D.R., Mullin, C.A., Frazier, J.L., 2014. Four common pesticides, their mixtures and a formulation solvent in the hive environment have high oral toxicity to honey bee larvae. PLOS ONE 9, e77547. https://doi.org/10.1371/journal.pone.0077547
+
+## Dosage effects
+* Carreck, N.L., Ratnieks, F.L.W., 2014. The dose makes the poison: Have “field realistic” rates of exposure of bees to neonicotinoid insecticides been overestimated in laboratory studies? Journal of Apicultural Research 53, 607–614. https://doi.org/10.3896/IBRA.1.53.5.08
+* Di Prisco, G., Cavaliere, V., Annoscia, D., Varricchio, P., Caprio, E., Nazzi, F., Gargiulo, G., Pennacchio, F., 2013. Neonicotinoid clothianidin adversely affects insect immunity and promotes replication of a viral pathogen in honey bees. Proceedings of the National Academy of Sciences 110, 18466–71. https://doi.org/10.1073/pnas.1314923110
+* Feltham, H., Park, K., Goulson, D., 2014. Field realistic doses of pesticide imidacloprid reduce bumblebee pollen foraging efficiency. Ecotoxicology 23, 317–323. https://doi.org/10.1007/s10646-014-1189-7
+* Laycock, I., Cotterell, K.C., O’Shea-Wheller, T.A., Cresswell, J.E., 2014. Effects of the neonicotinoid pesticide thiamethoxam at field-realistic levels on microcolonies of Bombus terrestris worker bumble bees. Ecotoxicology and Environmental Safety 100, 153–158. https://doi.org/10.1016/J.ECOENV.2013.10.027
+* Whitehorn, P.R., O’Connor, S., Wackers, F.L., Goulson, D., 2012. Neonicotinoid pesticide reduces bumble bee colony growth and queen production. Science 336, 351–352. https://doi.org/10.1126/science.1215025
 
 ## Gene expression
 * Aufauvre, J., Misme-Aucouturier, B., Viguès, B., Texier, C., Delbac, F., Blot, N., 2014. Transcriptome analyses of the honey bee response to _Nosema ceranae_ and insecticides. PLOS ONE 9, e91686. https://doi.org/10.1371/journal.pone.0091686
