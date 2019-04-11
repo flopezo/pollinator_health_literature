@@ -192,10 +192,10 @@ This is a compilation of literature on the effects of pesticides on insect polli
 
 ## Dosage effects
 * Anderson, N.L., Harmon-Threatt, A.N., 2019. Chronic contact with realistic soil concentrations of imidacloprid affects the mass, immature development speed, and adult longevity of solitary bees. Scientific Reports 9, 3724. https://doi.org/10.1038/s41598-019-40031-9
-* Carreck, N.L., Ratnieks, F.L.W., 2014. The dose makes the poison: Have “field realistic” rates of exposure of bees to neonicotinoid insecticides been overestimated in laboratory studies? Journal of Apicultural Research 53, 607–614. https://doi.org/10.3896/IBRA.1.53.5.08
+* Carreck, N.L., Ratnieks, F.L.W., 2014. The dose makes the poison: Have “field realistic” rates of exposure of bees to neonicotinoid insecticides been overestimated in laboratory studies? Journal of Apicultural Research 53, 607–614. https://doi.org/10.3896/ibra.1.53.5.08
 * Di Prisco, G., Cavaliere, V., Annoscia, D., Varricchio, P., Caprio, E., Nazzi, F., Gargiulo, G., Pennacchio, F., 2013. Neonicotinoid clothianidin adversely affects insect immunity and promotes replication of a viral pathogen in honey bees. Proceedings of the National Academy of Sciences 110, 18466–71. https://doi.org/10.1073/pnas.1314923110
 * Feltham, H., Park, K., Goulson, D., 2014. Field realistic doses of pesticide imidacloprid reduce bumblebee pollen foraging efficiency. Ecotoxicology 23, 317–323. https://doi.org/10.1007/s10646-014-1189-7
-* Laycock, I., Cotterell, K.C., O’Shea-Wheller, T.A., Cresswell, J.E., 2014. Effects of the neonicotinoid pesticide thiamethoxam at field-realistic levels on microcolonies of Bombus terrestris worker bumble bees. Ecotoxicology and Environmental Safety 100, 153–158. https://doi.org/10.1016/J.ECOENV.2013.10.027
+* Laycock, I., Cotterell, K.C., O’Shea-Wheller, T.A., Cresswell, J.E., 2014. Effects of the neonicotinoid pesticide thiamethoxam at field-realistic levels on microcolonies of Bombus terrestris worker bumble bees. Ecotoxicology and Environmental Safety 100, 153–158. https://doi.org/10.1016/j.ecoenv.2013.10.027
 * Whitehorn, P.R., O’Connor, S., Wackers, F.L., Goulson, D., 2012. Neonicotinoid pesticide reduces bumble bee colony growth and queen production. Science 336, 351–352. https://doi.org/10.1126/science.1215025
 
 ## Gene expression
