@@ -191,6 +191,7 @@ This is a compilation of literature on the effects of pesticides on insect polli
 * Zhu, W., Schmehl, D.R., Mullin, C.A., Frazier, J.L., 2014. Four common pesticides, their mixtures and a formulation solvent in the hive environment have high oral toxicity to honey bee larvae. PLOS ONE 9, e77547. https://doi.org/10.1371/journal.pone.0077547
 
 ## Dosage effects
+* Anderson, N.L., Harmon-Threatt, A.N., 2019. Chronic contact with realistic soil concentrations of imidacloprid affects the mass, immature development speed, and adult longevity of solitary bees. Scientific Reports 9, 3724. https://doi.org/10.1038/s41598-019-40031-9
 * Carreck, N.L., Ratnieks, F.L.W., 2014. The dose makes the poison: Have “field realistic” rates of exposure of bees to neonicotinoid insecticides been overestimated in laboratory studies? Journal of Apicultural Research 53, 607–614. https://doi.org/10.3896/IBRA.1.53.5.08
 * Di Prisco, G., Cavaliere, V., Annoscia, D., Varricchio, P., Caprio, E., Nazzi, F., Gargiulo, G., Pennacchio, F., 2013. Neonicotinoid clothianidin adversely affects insect immunity and promotes replication of a viral pathogen in honey bees. Proceedings of the National Academy of Sciences 110, 18466–71. https://doi.org/10.1073/pnas.1314923110
 * Feltham, H., Park, K., Goulson, D., 2014. Field realistic doses of pesticide imidacloprid reduce bumblebee pollen foraging efficiency. Ecotoxicology 23, 317–323. https://doi.org/10.1007/s10646-014-1189-7
