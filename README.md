@@ -36,6 +36,7 @@ This is a compilation of literature on the effects of pesticides on insect polli
 * **Potts, S.G., Imperatriz-Fonseca, V., Ngo, H.T., Aizen, M.A., Biesmeijer, J.C., Breeze, T.D., Dicks, L.V., Garibaldi, L.A., Hill, R., Settele, J., Vanbergen, A.J., 2016. Safeguarding pollinators and their values to human well-being. Nature 540, 220–229. https://doi.org/10.1038/nature20588**
 * Tomizawa, M., Casida, J.E., 2003. Selective toxicity of neonicotinoids attributable to specificity of insect and mammalian nicotinic receptors. Annual Review of Entomology 48, 339–364. https://doi.org/10.1146/annurev.ento.48.091801.112731
 * van der Sluijs, J.P., Simon-Delso, N., Goulson, D., Maxim, L., Bonmatin, J.-M., Belzunces, L.P., 2013. Neonicotinoids, bee disorders and the sustainability of pollinator services. Current Opinion in Environmental Sustainability 5, 293–305. https://doi.org/10.1016/j.cosust.2013.05.007
+* Wood, T.J., Goulson, D., 2017. The environmental risks of neonicotinoid pesticides: A review of the evidence post 2013. Environmental Science and Pollution Research 24, 17285–17325. https://doi.org/10.1007/s11356-017-9240-x
 
 ## Highly cited
 * Baron, G.L., Jansen, V.A.A., Brown, M.J.F., Raine, N.E., 2017. Pesticide reduces bumblebee colony initiation and increases probability of population extinction. Nature Ecology & Evolution 1, 1308–1316. https://doi.org/10.1038/s41559-017-0260-1
