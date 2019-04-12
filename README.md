@@ -18,11 +18,12 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * **Casida, J.E., 2018. Neonicotinoids and other insect nicotinic receptor competitive modulators: Progress and prospects. Annual Review of Entomology 63, 125–144. https://doi.org/10.1146/annurev-ento-020117-043042**
 * Cressey, D., 2017. The bitter battle over the world’s most popular insecticides. Nature 551, 156–158. https://doi.org/10.1038/551156a
 * Cressey, D., 2015. Bee studies stir up pesticide debate. Nature 520, 416–416. https://doi.org/10.1038/520416a
-* Cressey, D., 2013. Europe debates risk to bees. Nature 496, 408–408. https://doi.org/10.1038/496408a
+* **Cressey, D., 2013. Europe debates risk to bees. Nature 496, 408–408. https://doi.org/10.1038/496408a**
 * Dani, J.A., Bertrand, D., 2007. Nicotinic acetylcholine receptors and nicotinic cholinergic mechanisms of the central nervous system. Annual Review of Pharmacology and Toxicology 47, 699–729. https://doi.org/10.1146/annurev.pharmtox.47.120505.105214
 * **Desneux, N., Decourtye, A., Delpuech, J.-M., 2007. The sublethal effects of pesticides on beneficial arthropods. Annual Review of Entomology 52, 81–106. https://doi.org/10.1146/annurev.ento.52.110405.091440**
 * Dicks, L.V., Viana, B., Bommarco, R., Brosi, B., Arizmendi, M. del C., Cunningham, S.A., Galetto, L., Hill, R., Lopes, A.V., Pires, C., Taki, H., Potts, S.G., 2016. Ten policies for pollinators. Science 354, 975–976. https://doi.org/10.1126/science.aai9226
 * Dupuis, J., Louis, T., Gauthier, M., Raymond, V., 2012. Insights from honeybee (_Apis mellifera_) and fly (_Drosophila melanogaster_) nicotinic acetylcholine receptors: From genes to behavioral functions. Neuroscience & Biobehavioral Reviews 36, 1553–1564. https://doi.org/10.1016/j.neubiorev.2012.04.003
+* **Eisenstein, M., 2015. Pesticides: Seeking answers amid a toxic debate. Nature 521, S52–S55. https://doi.org/10.1038/521S52a**
 * Godfray, H.C.J., Blacquière, T., Field, L.M., Hails, R.S., Petrokofsky, G., Potts Simon G., Raine Nigel E., Vanbergen Adam J., McLean Angela R., 2014. A restatement of the natural science evidence base concerning neonicotinoid insecticides and insect pollinators. Proceedings of the Royal Society B: Biological Sciences 281, 20140558. https://doi.org/10.1098/rspb.2014.0558
 * Goulson, D., Lye, G.C., Darvill, B., 2008. Decline and conservation of bumble bees. Annual Review of Entomology 53, 191–208. https://doi.org/10.1146/annurev.ento.53.103106.093454
 * **Goulson, D., 2013. An overview of the environmental risks posed by neonicotinoid insecticides. Journal of Applied Ecology 50, 977–987. https://doi.org/10.1111/1365-2664.12111**
