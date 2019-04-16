@@ -44,6 +44,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * **Stoner, K.A., 2016. Current pesticide risk assessment protocols do not adequately address differences between honey bees (_Apis mellifera_) and bumblebees (_Bombus spp._). Frontiers in Environmental Science 4. https://doi.org/10.3389/fenvs.2016.00079**
 * Tomizawa, M., Casida, J.E., 2003. Selective toxicity of neonicotinoids attributable to specificity of insect and mammalian nicotinic receptors. Annual Review of Entomology 48, 339–364. https://doi.org/10.1146/annurev.ento.48.091801.112731
 * van der Sluijs, J.P., Simon-Delso, N., Goulson, D., Maxim, L., Bonmatin, J.-M., Belzunces, L.P., 2013. Neonicotinoids, bee disorders and the sustainability of pollinator services. Current Opinion in Environmental Sustainability 5, 293–305. https://doi.org/10.1016/j.cosust.2013.05.007
+* Van Leeuwen, T., Dermauw, W., 2016. The molecular evolution of xenobiotic metabolism and resistance in chelicerate mites. Annual Review of Entomology 61, 475–498. https://doi.org/10.1146/annurev-ento-010715-023907
 * Wood, T.J., Goulson, D., 2017. The environmental risks of neonicotinoid pesticides: A review of the evidence post 2013. Environmental Science and Pollution Research 24, 17285–17325. https://doi.org/10.1007/s11356-017-9240-x
 * Wright, G.A., Nicolson, S.W., Shafir, S., 2018. Nutritional physiology and ecology of honey bees. Annual Review of Entomology 63, 327–344. https://doi.org/10.1146/annurev-ento-020117-043423
 
@@ -88,7 +89,6 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Siviter, H., Brown, M.J.F., Leadbeater, E., 2018. Sulfoxaflor exposure reduces bumblebee reproductive success. Nature 561, 109–112. https://doi.org/10.1038/s41586-018-0430-6
 * Stanley, D.A., Garratt, M.P.D., Wickens, J.B., Wickens, V.J., Potts, S.G., Raine, N.E., 2015. Neonicotinoid pesticide exposure impairs crop pollination services provided by bumblebees. Nature 528, 548–550. https://doi.org/10.1038/nature16167
 * Suchail, S., Guez, D., Belzunces, L.P., 2001. Discrepancy between acute and chronic toxicity induced by imidacloprid and its metabolites in _Apis mellifera_. Environmental Toxicology and Chemistry 20, 2482–2486. https://doi.org/10.1002/etc.5620201113
-* Van Leeuwen, T., Dermauw, W., 2016. The molecular evolution of xenobiotic metabolism and resistance in chelicerate mites. Annual Review of Entomology 61, 475–498. https://doi.org/10.1146/annurev-ento-010715-023907
 * Whitehorn, P.R., O’Connor, S., Wackers, F.L., Goulson, D., 2012. Neonicotinoid pesticide reduces bumble bee colony growth and queen production. Science 336, 351–352. https://doi.org/10.1126/science.1215025
 * Williams, G.R., Troxler, A., Retschnig, G., Roth, K., Yañez, O., Shutler, D., Neumann, P., Gauthier, L., 2015. Neonicotinoid pesticides severely affect honey bee queens. Scientific Reports 5, 14621. https://doi.org/10.1038/srep14621
 * Williamson, S.M., Wright, G.A., 2013. Exposure to multiple cholinergic pesticides impairs olfactory learning and memory in honeybees. The Journal of Experimental Biology 216, 1799–807. https://doi.org/10.1242/jeb.083931
