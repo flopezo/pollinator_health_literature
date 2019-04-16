@@ -203,7 +203,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * **Feltham, H., Park, K., Goulson, D., 2014. Field realistic doses of pesticide imidacloprid reduce bumblebee pollen foraging efficiency. Ecotoxicology 23, 317–323. https://doi.org/10.1007/s10646-014-1189-7**
 * **Kessler, S.C., Tiedeken, E.J., Simcock, K.L., Derveau, S., Mitchell, J., Softley, S., Radcliffe, A., Stout, J.C., Wright, G.A., 2015. Bees prefer foods containing neonicotinoid pesticides. Nature 521, 74–76. https://doi.org/10.1038/nature14414**
 * Laycock, I., Cotterell, K.C., O’Shea-Wheller, T.A., Cresswell, J.E., 2014. Effects of the neonicotinoid pesticide thiamethoxam at field-realistic levels on microcolonies of Bombus terrestris worker bumble bees. Ecotoxicology and Environmental Safety 100, 153–158. https://doi.org/10.1016/j.ecoenv.2013.10.027
-* Stoner, K.A., 2016. Current pesticide risk assessment protocols do not adequately address differences between honey bees (__Apis mellifera__) and bumble bees (__Bombus spp.__). Frontiers in Environmental Science 4. https://doi.org/10.3389/fenvs.2016.00079
+* Stoner, K.A., 2016. Current pesticide risk assessment protocols do not adequately address differences between honey bees (_Apis mellifera_) and bumble bees (_Bombus spp._). Frontiers in Environmental Science 4. https://doi.org/10.3389/fenvs.2016.00079
 * **Whitehorn, P.R., O’Connor, S., Wackers, F.L., Goulson, D., 2012. Neonicotinoid pesticide reduces bumble bee colony growth and queen production. Science 336, 351–352. https://doi.org/10.1126/science.1215025**
 
 ## Gene expression
