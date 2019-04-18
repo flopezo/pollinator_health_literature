@@ -106,6 +106,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Cameron, S.A., Lozier, J.D., Strange, J.P., Koch, J.B., Cordes, N., Solter, L.F., Griswold, T.L., 2011. Patterns of widespread decline in North American bumble bees. Proceedings of the National Academy of Sciences 108, 662–7. https://doi.org/10.1073/pnas.1014743108
 * Garibaldi, L.A., Carvalheiro, L.G., Leonhardt, S.D., Aizen, M.A., Blaauw, B.R., Isaacs, R., Kuhlmann, M., Kleijn, D., Klein, A.M., Kremen, C., Morandin, L., Scheper, J., Winfree, R., 2014. From research to action: enhancing crop yield through wild pollinators. Frontiers in Ecology and the Environment 12, 439–447. https://doi.org/10.1890/130330
 * Garibaldi, L.A., Steffan-Dewenter, I., Winfree, R., Aizen, M.A., Bommarco, R., et al., 2013. Wild pollinators enhance fruit set of crops regardless of honey bee abundance. Science 339, 1608–1611. https://doi.org/10.1126/science.1230200
+* Kluser, S., Peduzzi, P., 2007. Global pollinator decline: A literature review. UNEP/GRID- Europe.
 * Potts, S.G., Imperatriz-Fonseca, V., Ngo, H.T., Aizen, M.A., Biesmeijer, J.C., Breeze, T.D., Dicks, L.V., Garibaldi, L.A., Hill, R., Settele, J., Vanbergen, A.J., 2016. Safeguarding pollinators and their values to human well-being. Nature 540, 220–229. https://doi.org/10.1038/nature20588
 * Vanbergen, A.J., Espíndola, A., Aizen, M.A., 2018. Risks to pollinators and pollination from invasive alien species. Nature Ecology & Evolution 2, 16–25. https://doi.org/10.1038/s41559-017-0412-3
 
@@ -289,6 +290,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 ## Economic value
 * Bauer, D.M., Sue Wing, I., 2016. The macroeconomic cost of catastrophic pollinator declines. Ecological Economics 126, 1–13. https://doi.org/10.1016/j.ecolecon.2016.01.011
 * Breeze, T.D., Gallai, N., Garibaldi, L.A., Li, X.S., 2016. Economic measures of pollination services: Shortcomings and future directions. Trends in Ecology & Evolution 31, 927–939. https://doi.org/10.1016/j.tree.2016.09.002
+* Carreck, N., Williams, I., 1998. The economic value of bees in the UK. Bee World 79, 115–123. https://doi.org/10.1080/0005772X.1998.11099393
 * Gallai, N., Salles, J.-M., Settele, J., Vaissière, B.E., 2009. Economic valuation of the vulnerability of world agriculture confronted with pollinator decline. Ecological Economics 68, 810–821. https://doi.org/10.1016/j.ecolecon.2008.06.014
 * Garratt, M.P.D., Breeze, T.D., Jenner, N., Polce, C., Biesmeijer, J.C., Potts, S.G., 2014a. Avoiding a bad apple: Insect pollination enhances fruit quality and economic value. Agriculture, Ecosystems & Environment 184, 34–40. https://doi.org/10.1016/j.agee.2013.10.032
 * Garratt, M.P.D., Coston, D.J., Truslove, C.L., Lappage, M.G., Polce, C., Dean, R., Biesmeijer, J.C., Potts, S.G., 2014b. The identity of crop pollinators helps target conservation for improved ecosystem services. Biological Conservation 169, 128–135. https://doi.org/10.1016/j.biocon.2013.11.001
