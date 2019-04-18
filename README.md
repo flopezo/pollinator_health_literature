@@ -2,11 +2,14 @@
 - [Introduction](#introduction)
 - [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
 - [Highly cited](#highly-cited)
+- [Decline of insect pollinators](#decline-of-insect-pollinators)
 - [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
 - [Pesticide levels in pollen and nectar](#pesticide-levels-in-pollen-and-nectar)
 - [Dosage effects](#dosage-effects)
 - [Gene expression](#gene-expression)
 - [Larval exposure](#larval-exposure)
+- [Routes of exposure](#routes-of-exposure)
+- [Economic value](#economic-value)
 
 ## Introduction
 This is a compilation of literature on the effects of neonicotinoids (and other compounds) on insect pollinators (mostly bees).
@@ -95,6 +98,16 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Wintermantel, D., Locke, B., Andersson, G.K.S., Semberg, E., Forsgren, E., Osterman, J., Rahbek Pedersen, T., Bommarco, R., Smith, H.G., Rundlöf, M., de Miranda, J.R., 2018. Field-level clothianidin exposure affects bumblebees but generally not their pathogens. Nature Communications 9, 5446. https://doi.org/10.1038/s41467-018-07914-3
 * Woodcock, B.A., Bullock, J.M., Shore, R.F., Heard, M.S., Pereira, M.G., et al., 2017. Country-specific effects of neonicotinoid pesticides on honey bees and wild bees. Science 356, 1393–1395. https://doi.org/10.1126/science.AAA1190
 * Woodcock, B.A., Garratt, M.P.D., Powney, G.D., Shaw, R.F., Osborne, J.L., et al., 2019. Meta-analysis reveals that pollinator functional diversity and abundance enhance crop pollination and yield. Nature Communications 10, 1481. https://doi.org/10.1038/s41467-019-09393-6
+
+## Decline of insect pollinators
+* Aizen, M.A., Garibaldi, L.A., Cunningham, S.A., Klein, A.M., 2009. How much does agriculture depend on pollinators? Lessons from long-term trends in crop production. Annals of botany 103, 1579–88. https://doi.org/10.1093/aob/mcp076
+* Aizen, M.A., Harder, L.D., 2009. The global stock of domesticated honey bees is growing slower than agricultural demand for pollination. Current Biology 19, 915–918. https://doi.org/10.1016/j.cub.2009.03.071
+* Arbetman, M.P., Gleiser, G., Morales, C.L., Williams, P., Aizen, M.A., 2017. Global decline of bumblebees is phylogenetically structured and inversely related to species range size and pathogen incidence. Proceedings of the Royal Society B: Biological Sciences 284.
+* Cameron, S.A., Lozier, J.D., Strange, J.P., Koch, J.B., Cordes, N., Solter, L.F., Griswold, T.L., 2011. Patterns of widespread decline in North American bumble bees. Proceedings of the National Academy of Sciences 108, 662–7. https://doi.org/10.1073/pnas.1014743108
+* Garibaldi, L.A., Carvalheiro, L.G., Leonhardt, S.D., Aizen, M.A., Blaauw, B.R., Isaacs, R., Kuhlmann, M., Kleijn, D., Klein, A.M., Kremen, C., Morandin, L., Scheper, J., Winfree, R., 2014. From research to action: enhancing crop yield through wild pollinators. Frontiers in Ecology and the Environment 12, 439–447. https://doi.org/10.1890/130330
+* Garibaldi, L.A., Steffan-Dewenter, I., Winfree, R., Aizen, M.A., Bommarco, R., et al., 2013. Wild pollinators enhance fruit set of crops regardless of honey bee abundance. Science 339, 1608–1611. https://doi.org/10.1126/science.1230200
+* Potts, S.G., Imperatriz-Fonseca, V., Ngo, H.T., Aizen, M.A., Biesmeijer, J.C., Breeze, T.D., Dicks, L.V., Garibaldi, L.A., Hill, R., Settele, J., Vanbergen, A.J., 2016. Safeguarding pollinators and their values to human well-being. Nature 540, 220–229. https://doi.org/10.1038/nature20588
+* Vanbergen, A.J., Espíndola, A., Aizen, M.A., 2018. Risks to pollinators and pollination from invasive alien species. Nature Ecology & Evolution 2, 16–25. https://doi.org/10.1038/s41559-017-0412-3
 
 ## Exposure of pollinators to neonicotinoid insecticides
 * Anderson, N.L., Harmon-Threatt, A.N., 2019. Chronic contact with realistic soil concentrations of imidacloprid affects the mass, immature development speed, and adult longevity of solitary bees. Scientific Reports 9, 3724. https://doi.org/10.1038/s41598-019-40031-9
@@ -265,3 +278,22 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Wu, J.Y., Anelli, C.M., Sheppard, W.S., 2011. Sub-lethal effects of pesticide residues in brood comb on worker honey bee (_Apis mellifera_) development and longevity. PLOS ONE 6, e14720. https://doi.org/10.1371/journal.pone.0014720
 * Wu, M.-C., Chang, Y.-W., Lu, K.-H., Yang, E.-C., 2017. Gene expression changes in honey bees induced by sublethal imidacloprid exposure during the larval stage. Insect Biochemistry and Molecular Biology 88, 12–20. https://doi.org/10.1016/j.ibmb.2017.06.016
 * Zhu, W., Schmehl, D.R., Mullin, C.A., Frazier, J.L., 2014. Four common pesticides, their mixtures and a formulation solvent in the hive environment have high oral toxicity to honey bee larvae. PLOS ONE 9, e77547. https://doi.org/10.1371/journal.pone.0077547
+
+## Routes of exposure
+* Bonmatin, J.-M., Giorio, C., Girolami, V., Goulson, D., Kreutzweiser, D.P., Krupke, C., Liess, M., Long, E., Marzaro, M., Mitchell, E.A.D., Noome, D.A., Simon-Delso, N., Tapparo, A., 2015. Environmental fate and exposure; neonicotinoids and fipronil. Environmental Science and Pollution Research 22, 35–67. https://doi.org/10.1007/s11356-014-3332-7
+* Hladik, M.L., Vandever, M., Smalling, K.L., 2016. Exposure of native bees foraging in an agricultural landscape to current-use pesticides. Science of The Total Environment 542, 469–477. https://doi.org/10.1016/j.scitotenv.2015.10.077
+* Kopit, A.M., Pitts-Singer, T.L., 2018. Routes of pesticide exposure in solitary, cavity-nesting bees. Environmental Entomology 47, 499–510. https://doi.org/10.1093/ee/nvy034
+* Krupke, C.H., Hunt, G.J., Eitzer, B.D., Andino, G., Given, K., 2012. Multiple routes of pesticide exposure for honey bees living near agricultural fields. PLOS ONE 7, e29268. https://doi.org/10.1371/journal.pone.0029268
+* Radolinski, J., Wu, J., Xia, K., Hession, W.C., Stewart, R.D., 2019. Plants mediate precipitation-driven transport of a neonicotinoid pesticide. Chemosphere 222, 445–452. https://doi.org/10.1016/j.chemosphere.2019.01.150
+
+## Economic value
+* Bauer, D.M., Sue Wing, I., 2016. The macroeconomic cost of catastrophic pollinator declines. Ecological Economics 126, 1–13. https://doi.org/10.1016/j.ecolecon.2016.01.011
+* Breeze, T.D., Gallai, N., Garibaldi, L.A., Li, X.S., 2016. Economic measures of pollination services: Shortcomings and future directions. Trends in Ecology & Evolution 31, 927–939. https://doi.org/10.1016/j.tree.2016.09.002
+* Gallai, N., Salles, J.-M., Settele, J., Vaissière, B.E., 2009. Economic valuation of the vulnerability of world agriculture confronted with pollinator decline. Ecological Economics 68, 810–821. https://doi.org/10.1016/j.ecolecon.2008.06.014
+* Garratt, M.P.D., Breeze, T.D., Jenner, N., Polce, C., Biesmeijer, J.C., Potts, S.G., 2014a. Avoiding a bad apple: Insect pollination enhances fruit quality and economic value. Agriculture, Ecosystems & Environment 184, 34–40. https://doi.org/10.1016/j.agee.2013.10.032
+* Garratt, M.P.D., Coston, D.J., Truslove, C.L., Lappage, M.G., Polce, C., Dean, R., Biesmeijer, J.C., Potts, S.G., 2014b. The identity of crop pollinators helps target conservation for improved ecosystem services. Biological Conservation 169, 128–135. https://doi.org/10.1016/j.biocon.2013.11.001
+* Hanley, N., Breeze, T.D., Ellis, C., Goulson, D., 2015. Measuring the economic value of pollination services: Principles, evidence and knowledge gaps. Ecosystem Services 14, 124–132. https://doi.org/10.1016/j.ecoser.2014.09.013
+* Leonhardt, S.D., Gallai, N., Garibaldi, L.A., Kuhlmann, M., Klein, A.-M., 2013. Economic gain, stability of pollination and bee diversity decrease from southern to northern Europe. Basic and Applied Ecology 14, 461–471. https://doi.org/10.1016/j.baae.2013.06.003
+* Melathopoulos, A.P., Cutler, G.C., Tyedmers, P., 2015. Where is the value in valuing pollination ecosystem services to agriculture? Ecological Economics 109, 59–70. https://doi.org/10.1016/j.ecolecon.2014.11.007
+* Tscharntke, T., Clough, Y., Wanger, T.C., Jackson, L., Motzke, I., Perfecto, I., Vandermeer, J., Whitbread, A., 2012. Global food security, biodiversity conservation and the future of agricultural intensification. Biological Conservation 151, 53–59. https://doi.org/10.1016/j.biocon.2012.01.068
+* Winfree, R., Gross, B.J., Kremen, C., 2011. Valuing pollination services to agriculture. Ecological Economics 71, 80–88. https://doi.org/10.1016/j.ecolecon.2011.08.001
