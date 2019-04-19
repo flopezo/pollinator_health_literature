@@ -19,6 +19,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Biesmeijer, J.C., Roberts, S.P.M., Reemer, M., Ohlemüller, R., Edwards, M., Peeters, T., Schaffers, A.P., Potts, S.G., Kleukers, R., Thomas, C.D., Settele, J., Kunin, W.E., 2006. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands. Science 313, 351–354. https://doi.org/10.1126/science.1127863
 * **Blacquière, T., Smagghe, G., van Gestel, C.A.M., Mommaerts, V., 2012. Neonicotinoids in bees: A review on concentrations, side-effects and risk assessment. Ecotoxicology 21, 973–992. https://doi.org/10.1007/s10646-012-0863-x**
 * **Casida, J.E., 2018. Neonicotinoids and other insect nicotinic receptor competitive modulators: Progress and prospects. Annual Review of Entomology 63, 125–144. https://doi.org/10.1146/annurev-ento-020117-043042**
+* Carreck, N.L., 2017. A beekeeper’s perspective on the neonicotinoid ban. Pest Management Science 73, 1295–1298. https://doi.org/10.1002/ps.4489
 * Cressey, D., 2017. The bitter battle over the world’s most popular insecticides. Nature 551, 156–158. https://doi.org/10.1038/551156a
 * Cressey, D., 2015. Bee studies stir up pesticide debate. Nature 520, 416–416. https://doi.org/10.1038/520416a
 * **Cressey, D., 2013. Europe debates risk to bees. Nature 496, 408–408. https://doi.org/10.1038/496408a**
