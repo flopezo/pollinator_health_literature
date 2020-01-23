@@ -238,7 +238,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Stoner, K.A., 2016. Current pesticide risk assessment protocols do not adequately address differences between honey bees (_Apis mellifera_) and bumble bees (_Bombus spp._). Frontiers in Environmental Science 4. https://doi.org/10.3389/fenvs.2016.00079
 * **Whitehorn, P.R., O’Connor, S., Wackers, F.L., Goulson, D., 2012. Neonicotinoid pesticide reduces bumble bee colony growth and queen production. Science 336, 351–352. https://doi.org/10.1126/science.1215025**
 
-## Gene expression response to pesticides
+## Gene expression
 * Aufauvre, J., Misme-Aucouturier, B., Viguès, B., Texier, C., Delbac, F., Blot, N., 2014. Transcriptome analyses of the honey bee response to _Nosema ceranae_ and insecticides. PLOS ONE 9, e91686. https://doi.org/10.1371/journal.pone.0091686
 * Bao, H., Liu, Y., Zhang, Y., Liu, Z., 2017. Two distinctive β subunits are separately involved in two binding sites of imidacloprid with different affinities in Locusta migratoria manilensis. Pesticide Biochemistry and Physiology 140, 36–41. https://doi.org/10.1016/j.pestbp.2017.06.001
 * **Bass, C., Field, L.M., 2011. Gene amplification and insecticide resistance. Pest Management Science 67, 886–890. https://doi.org/10.1002/ps.2189**
@@ -279,7 +279,7 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Zimmer, C.T., Garrood, W.T., Singh, K.S., Randall, E., Lueke, B., Gutbrod, O., Matthiesen, S., Kohler, M., Nauen, R., Davies, T.G.E., Bass, C., 2018. Neofunctionalization of duplicated P450 genes drives the evolution of insecticide resistance in the brown planthopper. Current Biology 28, 268-274.e5. https://doi.org/10.1016/j.cub.2017.11.060
 * Zhang, Y., Liu, Y., Bao, H., Sun, H., Liu, Z., 2017. Alternative splicing in nicotinic acetylcholine receptor subunits from Locusta migratoria and its influence on acetylcholine potencies. Neuroscience Letters 638, 151–155. https://doi.org/10.1016/j.neulet.2016.12.041
 
-## Larval exposure to pesticides
+## Larval exposure
 * Dai, P., Jack, C.J., Mortensen, A.N., Bustamante, T.A., Bloomquist, J.R., Ellis, J.D., 2019. Chronic toxicity of clothianidin, imidacloprid, chlorpyrifos, and dimethoate to _Apis mellifera_ L. larvae reared in vitro. Pest Management Science 75, 29–36. https://doi.org/10.1002/ps.5124
 * Derecka, K., Blythe, M.J., Malla, S., Genereux, D.P., Guffanti, A., Pavan, P., Moles, A., Snart, C., Ryder, T., Ortori, C.A., Barrett, D.A., Schuster, E., Stöger, R., 2013. Transient exposure to low levels of insecticide affects metabolic networks of honey bee larvae. PLOS ONE 8, e68191. https://doi.org/10.1371/journal.pone.0068191
 * Friol, P.S., Catae, A.F., Tavares, D.A., Malaspina, O., Roat, T.C., 2017. Can the exposure of _Apis mellifera_ (Hymenoptera, Apiadae) larvae to a field concentration of thiamethoxam affect newly emerged bees? Chemosphere 185, 56–66. https://doi.org/10.1016/j.chemosphere.2017.06.113
@@ -300,14 +300,14 @@ This is a compilation of literature on the effects of neonicotinoids (and other 
 * Wu, M.-C., Chang, Y.-W., Lu, K.-H., Yang, E.-C., 2017. Gene expression changes in honey bees induced by sublethal imidacloprid exposure during the larval stage. Insect Biochemistry and Molecular Biology 88, 12–20. https://doi.org/10.1016/j.ibmb.2017.06.016
 * Zhu, W., Schmehl, D.R., Mullin, C.A., Frazier, J.L., 2014. Four common pesticides, their mixtures and a formulation solvent in the hive environment have high oral toxicity to honey bee larvae. PLOS ONE 9, e77547. https://doi.org/10.1371/journal.pone.0077547
 
-## Routes of exposure to pesticides
+## Routes of exposure
 * Bonmatin, J.-M., Giorio, C., Girolami, V., Goulson, D., Kreutzweiser, D.P., Krupke, C., Liess, M., Long, E., Marzaro, M., Mitchell, E.A.D., Noome, D.A., Simon-Delso, N., Tapparo, A., 2015. Environmental fate and exposure; neonicotinoids and fipronil. Environmental Science and Pollution Research 22, 35–67. https://doi.org/10.1007/s11356-014-3332-7
 * Hladik, M.L., Vandever, M., Smalling, K.L., 2016. Exposure of native bees foraging in an agricultural landscape to current-use pesticides. Science of The Total Environment 542, 469–477. https://doi.org/10.1016/j.scitotenv.2015.10.077
 * Kopit, A.M., Pitts-Singer, T.L., 2018. Routes of pesticide exposure in solitary, cavity-nesting bees. Environmental Entomology 47, 499–510. https://doi.org/10.1093/ee/nvy034
 * Krupke, C.H., Hunt, G.J., Eitzer, B.D., Andino, G., Given, K., 2012. Multiple routes of pesticide exposure for honey bees living near agricultural fields. PLOS ONE 7, e29268. https://doi.org/10.1371/journal.pone.0029268
 * Radolinski, J., Wu, J., Xia, K., Hession, W.C., Stewart, R.D., 2019. Plants mediate precipitation-driven transport of a neonicotinoid pesticide. Chemosphere 222, 445–452. https://doi.org/10.1016/j.chemosphere.2019.01.150
 
-## Economic value of pollinator declines
+## Economic value
 * Bauer, D.M., Sue Wing, I., 2016. The macroeconomic cost of catastrophic pollinator declines. Ecological Economics 126, 1–13. https://doi.org/10.1016/j.ecolecon.2016.01.011
 * Breeze, T.D., Gallai, N., Garibaldi, L.A., Li, X.S., 2016. Economic measures of pollination services: Shortcomings and future directions. Trends in Ecology & Evolution 31, 927–939. https://doi.org/10.1016/j.tree.2016.09.002
 * Carreck, N., Williams, I., 1998. The economic value of bees in the UK. Bee World 79, 115–123. https://doi.org/10.1080/0005772X.1998.11099393
