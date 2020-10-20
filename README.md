@@ -14,7 +14,7 @@
 - [Economic value](#economic-value)
 
 ## Introduction
-This is a compilation of literature on the effects of neonicotinoids (and other insecticides) on insect pollinators (mostly bees).
+Compilation of literature about the effects of neonicotinoids (and other insecticides) on insect pollinators (mostly bees).
 
 ## Reviews on pollinators and neonicotinoid insecticides
 * Bass, C., Field, L.M., 2018. Neonicotinoids. Current Biology 28, R772–R773. https://doi.org/10.1016/j.cub.2018.05.061
